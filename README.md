@@ -4,9 +4,9 @@
 
 ## Built with PHP CodeIgniter
 
-- User Demo Link: https://www.ifeapp.com/fedro/
-- Username: FIC00197@FEDRO.COM
-- Password: password2$ 
+  User Demo Link: https://www.ifeapp.com/fedro/
+  Username: FIC00197@FEDRO.COM
+  Password: password2$ 
 
 - Admin Demo Link: https://www.ifeapp.com/fedro/admin
 - Username: FIC00105@FEDRO.COM
